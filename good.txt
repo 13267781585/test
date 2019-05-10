@@ -4,4 +4,4 @@ soft insert
 differenchkshde
 很多事master分支修改
 很多事test分支修改
-master github test
+master github pull test
