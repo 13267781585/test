@@ -9,5 +9,3 @@ master github pull test seccessful
 outer change first
 quick login
 local test 
-
->>>>>>> 0344ba9107a6815eb33a5cb2bdc1c1a9257f3f36
